@@ -1,4 +1,4 @@
-#!/Users/lubhanshsharma/Desktop/Capstone_Projects/Medical-Appointment-NoShow-Prediction/venv/bin/python
+#!/Users/lubhanshsharma/Desktop/Capstone_Projects/Medical-Appointment-NoShow-Prediction/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
